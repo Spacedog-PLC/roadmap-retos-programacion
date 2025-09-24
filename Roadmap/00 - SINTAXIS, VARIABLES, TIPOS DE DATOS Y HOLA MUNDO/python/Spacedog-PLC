@@ -1,0 +1,18 @@
+# https://python.org
+
+
+# Comentario sencillo en una linea
+
+"""
+comentario sencillo 
+en varias 
+lineas
+"""
+
+'''
+Esto tambien es un 
+comentario en 
+varias lineas
+'''
+
+My_Variable = "esta es mi variable"
